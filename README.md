@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dart-lang/angular/master/doc/angulardart-logo.png" alt="AngularDart Logo">
   <h1>AngularDart</h1>
+  <h1>A Dart language App</h1>
 </p>
 
 <!-- Badges -->
